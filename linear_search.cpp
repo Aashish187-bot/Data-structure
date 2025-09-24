@@ -27,5 +27,11 @@ int main()
 	
 }
 /*output:
-
+Sorted Array :
+1
+4
+5
+6
+7
+9
 */
